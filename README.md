@@ -15,7 +15,7 @@ The benifits of good domain modelling include:
 ## Examples
 
 
-### Example one
+### Coin flip
 
 This example takes the following user stories.
 
@@ -35,8 +35,37 @@ So I can remember my best score
 I want to be able to print out my score
 ```
 
-These were then translated into the following diagrams.
-
-The first one was a class diagram:
+And translates into the following class diagram.
 
 ![Coin flip class diagram](img/coin-class-diagram.png)
+
+From the class diagram [this code](coin-flip.rb) was the final output.
+
+### Notebook
+
+This example takes the following user stories.
+
+```
+As an office worker
+So I can record useful information
+I want to be able to create a text note
+```
+```
+As an office worker
+So I can carry all my useful information
+I want to keep all my notes in a notebook.
+```
+```
+As an office worker
+So I can categorise a note
+I want to be able to add a tag (only one tag) to a note
+```
+```
+As an office worker
+So I can find notes on a certain topic
+I want to be able to search for all the notes with a specific tag
+```
+
+And translates into the following class diagram.
+
+![Notebook class diagram](img/notebook-class-diagram.png)
