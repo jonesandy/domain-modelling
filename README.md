@@ -69,3 +69,6 @@ I want to be able to search for all the notes with a specific tag
 And translates into the following class diagram.
 
 ![Notebook class diagram](img/notebook-class-diagram.png)
+
+
+When starting to scaffold code it became clear the class diagram was not quite right. For example, it did not show fully how the note would be created and user input gained. The next step would be to return back to the diagram and revise. This stopped wasted time and resources in the coding stage.  
