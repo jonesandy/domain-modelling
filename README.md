@@ -39,4 +39,4 @@ These were then translated into the following diagrams.
 
 The first one was a class diagram:
 
-[Coin flip class diagram](img/coin-class-diagram.png)
+![Coin flip class diagram](img/coin-class-diagram.png)
