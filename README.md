@@ -1,10 +1,10 @@
-# Domain Modelling
+# Domain modelling
 
 This repository is for the Makers course. It will focus on the idea of domain modelling.
 
-Domain modelling is a very important initial step when designing programs and how those programs will work. Domain models create a visual representation of how code will interect with it's self. These models will help drive code architecture, decision making and implementation. There are several ways to create visual models of programs. A simple versions will use lists, tables and boxes to represent the "verb" methods and "noun" objects. A more complex version may use Unified Modelling Language to create diagrams.
+Domain modelling is a very important initial step when designing programs and how those programs will work. Domain models create a visual representation of how code will interact with its self. These models will help drive code architecture, decision making and implementation. There are several ways to create visual models of programs. A simple versions will use lists, tables and boxes to represent the "verb" methods and "noun" objects. A more complex version may use Unified Modelling Language to create diagrams.
 
-The benifits of good domain modelling include:
+The benefits of good domain modelling include:
 
 * **Saving time and effort** - Modelling is cheap and easy. Discovering design and implementation flaws _before_ writing code(or at the very start) saves unpicking those mistakes later. If starting the code is hard when looking at the model, chances are the model needs changing.
 
